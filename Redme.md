@@ -18,3 +18,9 @@ for (int = 1; i < 10; i++)
      Console.Whiteline(i*i)
 }
 ```
+```C#
+while (n < 0)
+{
+n++;
+}
+```
